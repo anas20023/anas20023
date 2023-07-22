@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Bootstap | C | C++**
 
-- 📫 How to reach me **yorder02@gmail.com**
+- 📫 How to reach me **yorder07@gmail.com**
 
 - ⚡ Fun fact **I am hungry to learn something new in Programming...**
 
