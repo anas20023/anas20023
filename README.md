@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yorder950620" target="blank"><img src="https://img.shields.io/twitter/follow/yorder950620?logo=twitter&style=for-the-badge" alt="yorder950620" /></a> </p>
 
-- 🔭 I’m currently working on [Postcard Design](https://dribbble.com/shots/22019409-Postcard-Design)
+- 🔭 I’m currently working on [Location Tracker](https://lctracker.netlify.app/)
 
-- 🌱 I’m currently learning **Bootstap | Javascript | C | C++ | Python**
+- 🌱 I’m currently learning **Bootstrap | Javascript | C | C++ | Python**
 
 - 👯 I’m looking to collaborate on [Payment Gateway](https://paymentfor.netlify.app/)
 
