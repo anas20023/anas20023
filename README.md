@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on C Programming.<br>🌱 I’m currently learning Web Development.<br>💬 Ask me about Solving Problems.<br>⚡ Fun fact is " I can't sleep until the problem is solved".
+🔭 I’m currently practicing C Programming.<br>🌱 I’m currently learning Web Development.<br>💬 Ask me about Solving Problems.<br>⚡ Fun fact is " I can't sleep until the problem is solved".
 
 
 ## 🌐 Socials:
