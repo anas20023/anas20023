@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently practicing C Programming.<br>🌱 I’m currently learning Web Development.<br> 🌱 I’m currently Working on[Ecobazar ecomerce Website](https://anas20023.github.io/E-Commerce-Site/).<br>💬 Ask me about Solving Problems.<br>⚡ Fun fact is " I can't sleep until the problem is solved".
+🔭 I’m currently practicing C Programming.<br>🌱 I’m currently learning Web Development.<br> 🌱 I’m currently Working on [Ecobazar ecomerce Website](https://anas20023.github.io/E-Commerce-Site/).<br>💬 Ask me about Solving Problems.<br>⚡ Fun fact is " I can't sleep until the problem is solved".
 
 
 ## 🌐 Socials:
