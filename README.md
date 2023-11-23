@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning C++ and JS.<br>🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://anas20023.github.io/E-Commerce-Site/).<br> 🌱 I’m currently Focued on CP.<br> 💬 Ask me about Problems Solving  Ideas <br> ⚡<b>NEVER ASK FOR CODE<b> !! <br>⚡ Fun fact is " I can't sleep until the problem is DEAD !!!".
+🔭 I’m currently Learning C++ and JS.<br>🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://anas20023.github.io/E-Commerce-Site/).<br> 🌱 I’m currently Focued on CP.<br> 💬 Ask me about Problems Solving  Ideas <br> ⚡<b>NEVER ASK FOR CODE<b> !! <br>
 
 
 ## 🌐 Socials:
