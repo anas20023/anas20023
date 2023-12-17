@@ -2,7 +2,8 @@
 🔭 I’m currently Learning C++ and JS.<br>🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://anas20023.github.io/E-Commerce-Site/).<br>
 🌱 I’m currently focused on CP.<br> 
 💬 Ask me about Problems Solving  Ideas <br> ⚡<b>NEVER ASK FOR CODE<b> !! <br> <br>
-⚡<b>Play [Tic-Tac-Toe](https://anas20023.github.io/Tic-Tac-Toe-Game/)<b> !! <br>
+🫡 <b>Play [Tic-Tac-Toe Game](https://anas20023.github.io/Tic-Tac-Toe-Game/)<b> !! <br>
+🔫 <b>Play [Rock Paper Scissors Game](https://anas20023.github.io/Rock-Paper-Game-JS/)<b> !! <br>
 
 # Visit my [Portfolio](https://anas20023.github.io/Personal-Portfolio/).<br>
 
