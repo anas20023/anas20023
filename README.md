@@ -27,7 +27,7 @@
 # 📊 GitHub Stats:
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=level-alternate&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
