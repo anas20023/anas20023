@@ -9,8 +9,7 @@
 # Visit my [Portfolio](https://anas20023.github.io/Personal-Portfolio/).<br>
 
 
-# 🍵![CringeEeeeGIF](https://github.com/anas20023/anas20023/assets/98760910/e0cb934d-4d2c-4819-aaf2-5e1d8027f0a8)
- Socials:
+# 🍵 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/anasib2000004)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/creative_hive002)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alpha000w)
