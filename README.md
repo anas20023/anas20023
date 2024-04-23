@@ -42,6 +42,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=gruvbox&preferLogin=true)](https://git.io/awesome-stats-card) <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://gitroll.io/profile/uyVjl0muMZwWrj1DlEV7mi7CBc4t2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uyVjl0muMZwWrj1DlEV7mi7CBc4t2" alt="GitRoll Profile Badge"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anas20023&theme=flat&no-frame=false&no-bg=false&margin-w=4)
