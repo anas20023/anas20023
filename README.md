@@ -33,7 +33,7 @@
 
 # ✅ Database :
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
 [![An image of @anas20023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anas20023)](https://holopin.io/@anas20023)
