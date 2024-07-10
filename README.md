@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently Exploring MERN Stack<br>🌱 I’m currently learning Competitive Programming<br>
-🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://e-co-bazar.vercel.app/).<br>
-<b>NEVER ASK FOR CODE<b> !! <br> <br>
+🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://e-co-bazar.vercel.app/).<be>
+<br><b>NEVER ASK FOR CODE<b> !! <br> <br>
 🫡 <b>Play [Tic-Tac-Toe Game](https://anas20023.github.io/Tic-Tac-Toe-Game/)<b> !! <br>
 🔫 <b>Play [Rock Paper Scissors Game](https://anas20023.github.io/Rock-Paper-Game-JS/)<b> !! <br>
 ✅ <b> Know Currency Exchange Rate with [Currency Converter](https://currency-convertio.vercel.app/)<b> !!
