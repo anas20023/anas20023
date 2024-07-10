@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently Exploring MERN Stack<br>🌱 I’m currently learning Competitive Programming<br>
-🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://e-co-bazar.vercel.app/).<be>
+🌱 I’m currently Working on [Ecobazar E-Commerce Website](https://e-co-bazar.vercel.app/).<br>
 <br><b>NEVER ASK FOR CODE<b> !! <br> <br>
 🫡 <b>Play [Tic-Tac-Toe Game](https://anas20023.github.io/Tic-Tac-Toe-Game/)<b> !! <br>
 🔫 <b>Play [Rock Paper Scissors Game](https://anas20023.github.io/Rock-Paper-Game-JS/)<b> !! <br>
@@ -57,7 +57,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anas20023&icon=7&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anas20023&icon=6&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 I Love Coffee
   [![Treat me A Cup Of Coffee 😊](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yorder07o) 
