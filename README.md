@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🔭 Exploring MERN Stack
 - 🌱 Learning Competitive Programming
-- 🚀 Currently working on [Ecobazar E-Commerce Website](https://e-co-bazar.vercel.app/)
   
 - 📜 Check out my [Portfolio](https://anasibnbelal.vercel.app/)
 
