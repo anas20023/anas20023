@@ -73,6 +73,6 @@
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=anas20023&icon=6&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anas20023&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yorder07o)
 
