@@ -72,6 +72,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=anas20023&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![An image of @anas20023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anas20023)](https://holopin.io/@anas20023)
 
 [![](https://visitcount.itsvg.in/api?id=anas20023&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yorder07o)
