@@ -3,10 +3,10 @@
  <h2/>
 <br/>
 <h4 align="center">
-   - 🔭 **Exploring:** MERN Stack  
-- 🌱 **Learning:** Competitive Programming  
-- 🌐 **Portfolio:** [anasibnbelal.vercel.app](https://anasibnbelal.vercel.app/)  
- <h2/>
+  - 🔭 <strong>Exploring:</strong> MERN Stack  
+  - 🌱 <strong>Learning:</strong> Competitive Programming  
+  - 🌐 <strong>Portfolio:</strong> <a href="https://anasibnbelal.vercel.app/" target="_blank">anasibnbelal.vercel.app</a>  
+</h4>
 <br/>
 
 <div align="center"> 
