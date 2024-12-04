@@ -2,9 +2,11 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
  <h2/>
 <br/>
-  - 🔭 **Exploring:** MERN Stack  
+<h4 align="center">
+   - 🔭 **Exploring:** MERN Stack  
 - 🌱 **Learning:** Competitive Programming  
 - 🌐 **Portfolio:** [anasibnbelal.vercel.app](https://anasibnbelal.vercel.app/)  
+ <h2/>
 <br/>
 
 <div align="center"> 
