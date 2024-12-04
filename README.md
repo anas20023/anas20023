@@ -1,7 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+I'm+Anas+Ibn+Belal+🚀;+Competitive+Programmer+and+MERN+Developer;" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate Developer from Bangladesh</h3>
 
 <br/>
