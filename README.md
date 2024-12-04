@@ -1,8 +1,10 @@
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
  <h2/>
-
 <br/>
+  - 🔭 **Exploring:** MERN Stack  
+- 🌱 **Learning:** Competitive Programming  
+- 🌐 **Portfolio:** [anasibnbelal.vercel.app](https://anasibnbelal.vercel.app/)  
 <br/>
 
 <div align="center"> 
@@ -24,7 +26,7 @@
 
 <hr/>
 
-# ⚒️ Languages Frameworks Tools I Use ⚒️
+# ⚒️ Languages Frameworks ⚒️
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,mongodb,express" />
