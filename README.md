@@ -1,5 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+<h2 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate Developer from Bangladesh</h3>
+ <h2/>
 
 <br/>
 
