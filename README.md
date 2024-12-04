@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anas20023.anas20023" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+I'm+Anas+Ibn+Belal+🚀;+Competitive+Programmer+and+MERN+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+I'm+Anas+Ibn+Belal+🚀;+Competitive+Programmer+and+MERN+Developer;" />
 </h1>
 
-<h3 align="center">A Passionate Developer from Bangladesh🇧🇩</h3>
+<h3 align="center">A Passionate Developer from Bangladesh</h3>
 
 <br/>
 
