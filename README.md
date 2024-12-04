@@ -5,20 +5,6 @@
 
 <br/>
 
-<div align="center">
-
-💻 Working on **MERN Stack Projects**
- 
-🎓 Learning **React.js, Node.js, MongoDB, DSA**
-
-🎯 Focused on **Competitive Programming**
-
-💬 Ask me about **Web Development and Problem Solving**
- 
-👀 Never ask for **Plagiarism**
- 
-</div>
-
 <br/>
 
 <div align="center"> 
