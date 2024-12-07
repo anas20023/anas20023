@@ -5,7 +5,7 @@
 <h4 align="center">
   - 🔭 <strong>Exploring:</strong> MERN Stack  
   - 🌱 <strong>Learning:</strong> Competitive Programming  
-  - 🌐 <strong>Portfolio:</strong> <a href="https://anasibnbelal.vercel.app/" target="_blank">anasibnbelal.vercel.app</a>  
+  - 🌐 <strong>Portfolio:</strong> <a href="https://anasib.tech/" target="_blank">Portfolio</a>  
 </h4>
 <br/>
 
