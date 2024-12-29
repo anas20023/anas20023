@@ -19,7 +19,7 @@
   <a href="https://codeforces.com/profile/alpha004" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="https://portfolio-anas20023.vercel.app/" target="_blank">
+  <a href="https://anasib.tech/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
