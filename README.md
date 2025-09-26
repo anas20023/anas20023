@@ -19,7 +19,7 @@
   <a href="https://codeforces.com/profile/alpha004" target="_blank">
      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
-  <a href="https://anasib.tech/" target="_blank">
+  <a href="https://anasibnbelal.live/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
@@ -31,8 +31,8 @@
 # ⚒️ Languages Frameworks ⚒️
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,mysql,express" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,vscode,git,github,figma,redux,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,mysql,express" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,springboot,vscode,git,github,figma,redux,photoshop" /><br>
 </div>
 
 <br/>
