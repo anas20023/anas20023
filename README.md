@@ -64,4 +64,4 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas20023&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 <br/>
-[![An image of @anas20023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anas20023)](https://holopin.io/@anas20023)
+(https://holopin.me/anas20023)](https://holopin.io/@anas20023)
