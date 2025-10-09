@@ -65,5 +65,3 @@
 
 <br/>
 <img src="https://holopin.me/anas20023"/>
-[![An image of @anas20023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anas20023)](https://holopin.io/@anas20023)
-
