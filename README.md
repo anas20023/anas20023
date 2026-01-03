@@ -41,17 +41,8 @@
 <br/>
 
 <div align="center">
-  <img
-  width="440"
-  src="https://streak-stats.demolab.com?user=anas20023&theme=react&border_radius=10"
-  alt="GitHub Streak"
-/>
-
-  <img
-  width="325"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&layout=compact&theme=react&border_radius=10"
-  alt="Top Languages"
-/>
+<img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=anas20023&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
 
 </div>
 
