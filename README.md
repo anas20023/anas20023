@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Banner" width="100%" />
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
  <h2/>
@@ -57,7 +58,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anas20023&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 </div>
 
 <hr/>
