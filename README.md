@@ -1,11 +1,10 @@
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Banner" width="100%" />
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Competitive+Programmer;MERN+Stack+Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Problem+Solver;NextJS+Developer" alt="Typing SVG" /></a>
  <h2/>
 <br/>
 <h4 align="center">
-  - 🔭 <strong>Exploring:</strong> MERN Stack  
-  - 🌱 <strong>Learning:</strong> Competitive Programming  
+  - 🔭 <strong>Exploring:</strong> Advance NextJS 
+  - 🌱 <strong>Learning:</strong> Web Frameroks  
   - 🌐 <strong>Portfolio:</strong> <a href="https://anasibnbelal.live/" target="_blank">visit</a>  
 </h4>
 <br/>
