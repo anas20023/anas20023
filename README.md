@@ -1,69 +1,99 @@
-<h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Anas+Ibn+Belal;Problem+Solver;NextJS+Developer" alt="Typing SVG" /></a>
- <h2/>
-<br/>
-<h4 align="center">
-  - 🔭 <strong>Exploring:</strong> Advance NextJS 
-  - 🌱 <strong>Learning:</strong> Web Frameroks  
-  - 🌐 <strong>Portfolio:</strong> <a href="https://anas-ibn-belal.vercel.app/" target="_blank">visit</a>  
-</h4>
-<br/>
-
-<div align="center"> 
-  <a href="mailto:anasibnebelal400@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/anasibelal004" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codeforces.com/profile/alpha004" target="_blank">
-     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://anasibnbelal.live/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-</div>
-
-<br/>
-
-<hr/>
-
-# ⚒️ Languages Frameworks ⚒️
-<br/>
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,react,nextjs,tailwind,nodejs,express,mongodb,mysql,prisma,java,npm" />
-   <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,postman,codepen,figma,photoshop,ai" />
-</div>
-
-<br/>
-
-# 📊 GitHub Stats
-<br/>
-
-<div align="center">
-  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=anas20023&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
-
-<br/>
-
-# 🏆 GitHub Trophies
-<br/>
-
-<div align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+<p align="center">
+  <img src="https://i.ibb.co.com/N8Z0Jz4/Chat-GPT-Image-Jul-8-2026-11-22-48-PM.png" width="100%" alt="Banner"/>
 </p>
+
+<p align="center">
+  <a href="mailto:anasibnebelal400@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/anasibelal004">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anas20023">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://codeforces.com/profile/alpha004">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://anasibnbelal.live">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp,java"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,prisma"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,postman,figma"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth,gsap,framer,stripe,cloudflare,jwt"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="175" src="https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=github&preferLogin=true"/>
+
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=anas20023&theme=github-light&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&layout=compact&theme=github&hide_border=true"/>
+
+</p>
+
+---
+
+# 💼 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🍳 **RecipeHub** | Premium recipe platform with subscriptions & payments | Next.js • Better Auth • MongoDB • Stripe |
+| 🚗 **DriveSphere** | Modern car rental platform | MERN Stack |
+| 💻 **BUBT IT Club** | Club management & membership platform | Next.js • MongoDB |
+
 </div>
 
-<hr/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas20023&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+---
 
-<br/>
+# 🏆 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas20023&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anas20023&theme=flat&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 🎖 Certifications & Badges
+
+<p align="center">
 <img src="https://holopin.me/anas20023"/>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anas20023&style=for-the-badge"/>
+
+</p>
