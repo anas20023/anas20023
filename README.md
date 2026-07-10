@@ -38,19 +38,13 @@
 
 # 📊 GitHub Statistics
 
-<p align="center">
+| GitHub Stats | Top Languages |
+|:------------:|:-------------:|
+| ![](https://github-readme-stats.shion.dev/api?username=anas20023&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anas20023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
-<img height="175" src="https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=github&preferLogin=true"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anas20023&theme=dark&card_width=600&card_height=200)](https://git.io/streak-stats)
-
-</p>
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas20023&layout=compact&theme=github&hide_border=true"/>
-
-</p>
+| Streak Stats |
+|:------------:|
+| ![](https://streak-stats.demolab.com/?user=anas20023&theme=dark&hide_border=false) |
 
 ---
 
@@ -66,21 +60,6 @@
 
 </div>
 
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas20023&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anas20023&theme=flat&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
