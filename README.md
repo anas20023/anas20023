@@ -42,7 +42,7 @@
 
 <img height="175" src="https://awesome-github-stats.azurewebsites.net/user-stats/anas20023?cardType=github&theme=github&preferLogin=true"/>
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=anas20023&theme=github-light&hide_border=true"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anas20023&theme=dark&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 </p>
 
