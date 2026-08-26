@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/m5hZh3j6/lnkedinnew.png" width="100%" height="100%" alt="Banner"/>
+  <img src="https://ik.imagekit.io/aca1atrsc/lnkedinnew.png" width="100%" height="100%" alt="Banner"/>
 </p>
 
 <p align="center">
