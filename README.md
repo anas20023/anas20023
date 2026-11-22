@@ -20,8 +20,11 @@
   </a>
 </p>
 
-My Template:
-<a href="https://console.prisma.io/apps/scalable-indexing-platform-template"><img src="https://www.prisma.io/docs/img/deploy-button.svg" alt="Open in Prisma" width="172" height="36" /></a>
+<p align="center">
+  <a href="https://console.prisma.io/apps/scalable-indexing-platform-template">
+    <img src="https://www.prisma.io/docs/img/deploy-button.svg" alt="Deploy with Prisma" width="172" height="36" />
+  </a>
+</p>
 
 ---
 
@@ -57,9 +60,10 @@ My Template:
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🍳 **RecipeHub** | Premium recipe platform with subscriptions & payments | Next.js • Better Auth • MongoDB • Stripe |
-| 🚗 **DriveSphere** | Modern car rental platform | MERN Stack |
-| 💻 **BUBT IT Club** | Club management & membership platform | Next.js • MongoDB |
+| 📚 **[DevShelf](https://github.com/anas20023/dev-shelf-frontend)** · [Live](https://shelf.anasi.me/) | Search-focused portal that indexes open-source developer learning resources, with filters, sorting & keyboard shortcuts | Next.js 16 • Tailwind CSS v4 • shadcn/ui • Prisma |
+| 🤖 **[DocPilot AI](https://github.com/anas20023/docpilot-ai)** · [Live](https://docpilot-alpha.vercel.app/) | AI research workspace that turns PDFs and papers into summaries, key findings & chat-based insights | Next.js • React • Tailwind CSS • HeroUI |
+| 🍳 **[RecipeHub](https://github.com/anas20023/recipe-hub)** · [Live](https://recipe-hub-alpha-code.vercel.app/) | Recipe sharing platform with premium memberships, payments & role-based dashboards | Next.js • Better Auth • MongoDB • Stripe |
+| 💻 **BUBT IT Club** · [Live](https://www.bubtitclub.com) | Club management platform: events, member registration, committees, galleries, contests & role-based dashboards | Next.js • React • Tailwind CSS • HeroUI • Node.js |
 
 </div>
 
