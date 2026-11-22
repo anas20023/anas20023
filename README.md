@@ -20,6 +20,7 @@
   </a>
 </p>
 
+My Template:
 <a href="https://console.prisma.io/apps/scalable-indexing-platform-template"><img src="https://www.prisma.io/docs/img/deploy-button.svg" alt="Open in Prisma" width="172" height="36" /></a>
 
 ---
